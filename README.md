@@ -5,7 +5,9 @@ Ziel ist es, eine effiziente und zuverlässige Methode zu entwickeln, die es erm
 
 
 Umgebung erstellen:
+
 Python >3.9
+
 CMD-Befehle:
 
 python -m venv venv
