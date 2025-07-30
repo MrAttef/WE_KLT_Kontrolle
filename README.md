@@ -3,7 +3,14 @@ In dieser Arbeit wird ein Konzept zur automatisierten Belegungsüberprüfung von
 Ziel ist es, eine effiziente und zuverlässige Methode zu entwickeln, die es ermöglicht, falsch belegte KLTs frühzeitig zu identifizieren und somit die Pickprozesse vom Pick-and-Place-Roboter beim Versand zu verbessern.
 
 
-Umgebung erstellen:
+ResNet18_train.py ist für modell training.
+
+kamera_grab_with_barcode.py ist für bildersammlung.
+
+final_script.py ist für echzeit Vohersage.
+
+
+Python Umgebung erstellen:
 
 Python >3.9
 
@@ -17,8 +24,3 @@ pip install -r requirements.txt
 
 pip install --upgrade transformers
 
-ResNet18_train.py ist für modell training.
-
-kamera_grab_with_barcode.py ist für bildersammlung.
-
-final_script.py ist für echzeit Vohersage.
