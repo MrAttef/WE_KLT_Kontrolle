@@ -9,16 +9,16 @@ kamera_grab_with_barcode.py ist für bildersammlung.
 
 final_script.py ist für echzeit Vohersage.
 
-**Die verwendeten Komponenten für die Bildaufnahme:
-**
+**Die verwendeten Komponenten für die Bildaufnahme:**
+
 Basler Industriekamera a2A2600-20gcBAS (5Mp)
 
 KEYENCE SR-710 Barcodescanner
 
 
 
-**Python Umgebung erstellen:
-**
+**Python Umgebung erstellen:**
+
 Python >3.9
 
 CMD-Befehle:
