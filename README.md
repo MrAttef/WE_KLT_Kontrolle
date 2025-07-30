@@ -16,3 +16,9 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 pip install --upgrade transformers
+
+ResNet18_train.py ist für modell training.
+
+kamera_grab_with_barcode.py ist für bildersammlung.
+
+final_script.py ist für echzeit Vohersage.
