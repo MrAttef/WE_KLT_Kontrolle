@@ -1,0 +1,17 @@
+transformers
+pillow
+requests
+opcua
+pypylon
+cx-Oracle
+Serial
+pyserial
+torch
+opencv-python
+torchvision
+ultralytics
+matplotlib
+numpy
+Pandas
+scikit-learn
+seaborn
